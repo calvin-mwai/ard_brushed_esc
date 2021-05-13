@@ -12,7 +12,7 @@ The microcontroller method was chosen since additional functionality was to be a
 4. 3 position rotary switch
 5. 2N2222 NPN BJT
 6. 1K POT
-7. Resistors, LEDs and button
+7. Resistors, capacitor, LEDs and button
 
 
 ### Proteus Images
